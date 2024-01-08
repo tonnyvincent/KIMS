@@ -1,4 +1,4 @@
-<?php include 'includes/header.php'; ?>
+<?php include 'KIMS/includes/header.php'; ?>
 
 <div class="main-content">
         <main>
@@ -11,4 +11,4 @@
 
 
 <!-- footer -->
-<?php include 'includes/footer.php'; ?>
+<?php include 'KIMS/includes/footer.php'; ?>
