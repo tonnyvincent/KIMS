@@ -64,7 +64,7 @@
 
         <!-- user photo and name // later fetch from database // user input -->
         <div class="user-wrapper">
-            <img src="image/profilepic.jpg" width="40px" height="40px" alt="">
+            <img src="KIMS/image/profilepic.jpg" width="40px" height="40px" alt="">
             <div>
               <h4>name</h4>
               <small>title(Admin)</small>
