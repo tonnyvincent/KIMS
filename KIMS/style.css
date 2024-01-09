@@ -129,7 +129,8 @@ main {
     min-height: calc(100vh - 90px);
 }
 
-.KIMS-info {
+
+/* .KIMS-info {
     display: flex;
     width: 326px;
     height: 236px;
@@ -145,4 +146,4 @@ main {
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-}
+} */
