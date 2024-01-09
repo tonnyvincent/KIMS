@@ -3,7 +3,7 @@
 <div class="main-content">
         <main>
             <!-- content inside -->
-            <div class="KIMS-info">
+            <div class="kims-info">
                 Inventory Management Systems
             </div>
         </main>

@@ -110,11 +110,6 @@ header label span {
     margin-right: 1rem;
 }
 
-/* user name */
-.user-wrapper h4 {
-    margin-bottom: ;
-}
-
 /* user title */
 .user-wrapper small {
     display: inline-block;
@@ -129,7 +124,7 @@ main {
     min-height: calc(100vh - 90px);
 }
 
-.KIMS-info {
+.kims-info {
     display: flex;
     width: 326px;
     height: 236px;
