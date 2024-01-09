@@ -5,6 +5,7 @@
             <!-- content inside -->
             <div class="KIMS-info">
                 Inventory Management Systems
+                hello
             </div>
         </main>
 </div>
