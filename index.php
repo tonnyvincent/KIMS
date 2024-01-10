@@ -24,7 +24,7 @@
   <div class="sidebar">
     
     <div class="sidebar-brand">
-      <h1><a href="KIMS/dashboard.php"><span class="lab la-swift"></span> <span>KIMS</span></h1></a>
+      <h1><a href=""><span class="lab la-swift"></span> <span>KIMS</span></h1></a>
     </div>
 
     <!-- navbar links -->
