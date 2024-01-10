@@ -94,7 +94,7 @@
                 </div>
 
                  <div class="kims-pic">
-                    <img src="image/FCSIT.jpg" alt>
+                    <img src="KIMS/image/FCSIT.jpg" alt>
                 </div>
 
             </div>
